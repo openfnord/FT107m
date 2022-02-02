@@ -1,3 +1,4 @@
+// By Emerson PP6EW
 // This code let us to test how good Arduino read the frequency after acquire 
 // signals from the counter unit  pb 2086A. Refers to circuit CAT-FT107M
 // This program is distributed   WITHOUT ANY WARRANTY

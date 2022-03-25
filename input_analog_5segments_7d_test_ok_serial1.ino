@@ -1,7 +1,7 @@
 // By Emerson PP6EW
 // This code let us to test how good Arduino read the frequency after acquire 
 // signals from the counter unit  pb 2086A. Refers to circuit CAT-FT107M
-// This program is distributed   WITHOUT ANY WARRANTY
+// This program is distributed   WITHOUT ANY WARRANTY and may not be used commercially without the author's permission. 
    
 int dial[6][5];
 static const uint8_t analog_pins[] = {A4,A3,A2,A1,A0};

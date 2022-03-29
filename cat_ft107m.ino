@@ -10,6 +10,7 @@
  * - Hamlib source code
  * - FLRig source code
  * - Chirp source code
+ * https://github.com/pavelmc/FT857d/blob/master/src/ft857d.h
  *  
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
